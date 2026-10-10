@@ -2,8 +2,6 @@ https://docs.google.com/spreadsheets/d/1sB8icAHrZEwUKKWcVFRKEUthV16T8ssH/edit?us
 
 # Greggs plc Equity Valuation
 
-**[View the model in your browser (Google Sheets, view-only)](PASTE_DRIVE_LINK_HERE)** · or download `Greggs valuation.xlsx` above
-
 Independent valuation of Greggs plc (LSE: GRG) as at 28 September 2026, built in Excel.
 
 ## Conclusion
